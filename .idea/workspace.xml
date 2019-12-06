@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="904e3beb-0705-44c3-920c-f64beb532410" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/guest/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/guest/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +54,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$USER_HOME$/.jenkins/workspace/guest" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunManager">
     <configuration name="guest" type="Python.DjangoServer" factoryName="Django server">
@@ -127,7 +129,21 @@
       <option name="project" value="LOCAL" />
       <updated>1575618986559</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="写了部分web自动化测试代码">
+      <created>1575620135546</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1575620135546</updated>
+    </task>
+    <task id="LOCAL-00005" summary="更正了部分url的错误">
+      <created>1575632826246</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1575632826246</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,13 +153,15 @@
     <MESSAGE value="写了部分接口" />
     <MESSAGE value="删除了mock文件" />
     <MESSAGE value="写了剩下的接口" />
-    <option name="LAST_COMMIT_MESSAGE" value="写了剩下的接口" />
+    <MESSAGE value="写了部分web自动化测试代码" />
+    <MESSAGE value="更正了部分url的错误" />
+    <option name="LAST_COMMIT_MESSAGE" value="更正了部分url的错误" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="421" y="8" key="CommitChangelistDialog2" timestamp="1575618986010">
+    <state x="421" y="8" key="CommitChangelistDialog2" timestamp="1575632825665">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="421" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1575618986010" />
+    <state x="421" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1575632825665" />
     <state x="147" y="64" key="DiffContextDialog" timestamp="1575617055690">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -160,14 +178,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="561" y="125" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1575617058410" />
-    <state x="272" y="57" key="SettingsEditor" timestamp="1575614421954">
+    <state x="272" y="57" key="SettingsEditor" timestamp="1575621278921">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="272" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1575614421954" />
-    <state x="361" y="148" key="Vcs.Push.Dialog.v2" timestamp="1575618998465">
+    <state x="272" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1575621278921" />
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2" timestamp="1575632872256">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1575618998465" />
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1575632872255" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1575462425786">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
